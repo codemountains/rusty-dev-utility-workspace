@@ -1,6 +1,6 @@
 [workspace]
 resolver = "2"
-members = ["good_morning", "hello"]
+members = ["good_morning", "hello", "utils"]
 
 # specify a default members
 # Learn more at: https://doc.rust-lang.org/cargo/reference/workspaces.html#the-default-members-field
