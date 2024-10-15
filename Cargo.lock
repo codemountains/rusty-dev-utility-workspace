@@ -3,9 +3,9 @@
 version = 3
 
 [[package]]
-name = "application"
+name = "good_morning"
 version = "0.1.0"
 
 [[package]]
-name = "dev-utility"
+name = "hello"
 version = "0.1.0"
