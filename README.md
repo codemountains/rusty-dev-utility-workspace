@@ -13,22 +13,16 @@ Application start!
 
 ## Cargo run dev-utility commands
 
-Use the `--bin` option to specify a binary.
+Use the `--package` option to specify a binary.
 
 ```
-% cargo run --package dev-utility --bin good_morning
+% cargo run --package good_morning
 Good morning!
 ```
 
 ```
-% cargo run --package dev-utility --bin hello
+% cargo run --packagehello
 Hello!
-```
-
-```
-% cargo run --package dev-utility --bin goodbye
-Goodbye!
-Have a nice day.
 ```
 
 ## LICENSE
